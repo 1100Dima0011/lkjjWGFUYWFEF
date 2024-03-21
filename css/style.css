@@ -141,16 +141,17 @@ h3 {
 
 .harta {
     text-align: center;
-    margin: 20px;
+    margin: 5px;
     border-radius: 50px;
     padding: 5px 5%;
-    margin-bottom: 15px;
-
+    margin-bottom: 15px; 
+    height: 300px;
+    width: 340px;
 }
 
 .desprenoi {
     margin-top: 20px;
-    height: 200vh;
+    height: 400vh;
     border: 3px solid rgb(13, 139, 13);
     margin-bottom: 50px;
     display: flex;
@@ -161,7 +162,6 @@ h3 {
     gap: 40px;
 
 }
-
 section {
     padding: 50px 5%;
 }
